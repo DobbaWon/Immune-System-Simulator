@@ -1,0 +1,10 @@
+20:16 13/10/2021
+
+Gathered assets for Body wall, Cell, Pointer Beacon. Implemented Cell basics, Pointer, Cell moves to Pointer with a few issues
+
+Scope Requirements
+ - Position on screen doesn't reflect Pointer's rectangle Position 
+ - Velocity isn't interesting enough
+ - Pointer doesn't get removed upon Cell reaching it
+ - Cell is too big
+ - Camera not implemented

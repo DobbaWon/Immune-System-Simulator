@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Immune System Simulator", "Immune System Simulator\Immune System Simulator.csproj", "{B26A75F4-E1EE-4192-AD9D-14E30F0E8BA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26A75F4-E1EE-4192-AD9D-14E30F0E8BA5}.Debug|x86.ActiveCfg = Debug|x86
+		{B26A75F4-E1EE-4192-AD9D-14E30F0E8BA5}.Debug|x86.Build.0 = Debug|x86
+		{B26A75F4-E1EE-4192-AD9D-14E30F0E8BA5}.Release|x86.ActiveCfg = Release|x86
+		{B26A75F4-E1EE-4192-AD9D-14E30F0E8BA5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B701E830-8448-4164-ABEA-629A612C55D9}
+	EndGlobalSection
+EndGlobal

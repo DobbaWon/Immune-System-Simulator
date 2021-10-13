@@ -1,0 +1,25 @@
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\Content\Textures\White Blood Cell With Pointer.xnb
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\Immune System Simulator.exe
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\Immune System Simulator.pdb
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\obj\x86\Debug\Immune System Simulator.csprojAssemblyReference.cache
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\obj\x86\Debug\Immune System Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\obj\x86\Debug\Immune System Simulator.csproj.CopyComplete
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\obj\x86\Debug\Immune System Simulator.exe
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\obj\x86\Debug\Immune System Simulator.pdb
+C:\Users\Charlie Dobson\Desktop\Immune-System-Simulator\Code\Immune System Simulator\bin\Windows\x86\Debug\Content\Textures\Pointer Beacon.xnb

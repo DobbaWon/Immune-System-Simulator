@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Charlie Dobson/Desktop/Immune-System-Simulator/Code/Immune System Simulator/Content/Textures/Pointer Beacon.png</File>
+    <File>C:/Users/Charlie Dobson/Desktop/Immune-System-Simulator/Code/Immune System Simulator/Content/Textures/White Blood Cell With Pointer.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
